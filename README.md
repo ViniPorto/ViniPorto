@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniporto&label=Profile%20views&color=0e75b6&style=flat" alt="viniporto" /> </p>
 
 
-- 🌱 I’m currently learning **Java backend development student**
+- 🌱 I’m currently learning **Java backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViniPorto?tab=repositories](https://github.com/ViniPorto?tab=repositories)
 
