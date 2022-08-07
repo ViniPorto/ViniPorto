@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniporto&label=Profile%20views&color=0e75b6&style=flat" alt="viniporto" /> </p>
 
 
-- 🌱 I’m currently learning **Desenvolvimento Backend Java**
+- 🌱 I’m currently learning **Java backend development student**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViniPorto?tab=repositories](https://github.com/ViniPorto?tab=repositories)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **leinateporto@gmail.com**
+- 📫 How to reach me **✉️ leinateporto@gmail.com / 📱 (49) 988365687**
 
 - ⚡ Fun fact **I love to fish😎🎣**
 
