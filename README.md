@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **✉️ leinateporto@gmail.com / 📱 (49) 988365687**
 
-- ⚡ Fun fact **I love to fish😎🎣**
+- ⚡ Fun fact **I love to fish 😎🎣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
