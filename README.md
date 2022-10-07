@@ -27,5 +27,5 @@
 
 <p align="center">
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniporto&theme=react&show_icons=true&locale=en&layout=compact" alt="viniporto" />
-<img align="center" height="150px" src="https://spotify-now-playing-beta-ten.vercel.app/api?username=viniporto&theme=react&show_icons=true&locale=en" alt="viniporto"/>
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=viniporto&theme=react&show_icons=true&locale=en" alt="viniporto"/>
 </p>
