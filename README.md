@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ViniPorto?tab=repositories](https://github.com/ViniPorto?tab=repositories)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **✉️ leinateporto@gmail.com / 📱 (49) 988365687**
