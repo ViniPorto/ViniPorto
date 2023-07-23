@@ -35,18 +35,14 @@
 </p>
 <p align="center">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 <p align="center">
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" alt="cypress" width="40" height="40"/></a>
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" alt="robot" width="40" height="40"/></a>
 </p>
 <p align="center">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 <br> 
 <p align="center">
