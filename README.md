@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniporto&label=Profile%20views&color=0e75b6&style=flat" alt="viniporto" /> </p>
  
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m a **Fullstack developer** at Expresso São Miguel (Java and Delphi)
 
 - 💬 Ask me about **Java**
 
